@@ -2,14 +2,10 @@
     "Abaza": [
         "UD_Abaza-ATB"
     ],
-    "Abkhaz": [
-        "UD_Abkhaz-AbNC"
-    ],
     "Afrikaans": [
         "UD_Afrikaans-AfriBooms"
     ],
     "Akkadian": [
-        "UD_Akkadian-MCONG",
         "UD_Akkadian-PISANDUB",
         "UD_Akkadian-RIAO"
     ],
@@ -20,8 +16,7 @@
         "UD_Albanian-TSA"
     ],
     "Amharic": [
-        "UD_Amharic-ATT",
-        "UD_Amharic-Inku"
+        "UD_Amharic-ATT"
     ],
     "Ancient_Greek": [
         "UD_Ancient_Greek-PROIEL",
@@ -39,15 +34,9 @@
         "UD_Arabic-PADT",
         "UD_Arabic-PUD"
     ],
-    "Archaic_Irish": [
-        "UD_Archaic_Irish-OGAM"
-    ],
     "Armenian": [
         "UD_Armenian-ArmTDP",
         "UD_Armenian-BSUT"
-    ],
-    "Assamese": [
-        "UD_Assamese-AsTB"
     ],
     "Assyrian": [
         "UD_Assyrian-AS"
@@ -58,9 +47,6 @@
     "Basque": [
         "UD_Basque-BDT"
     ],
-    "Bavarian": [
-        "UD_Bavarian-MaiBaam"
-    ],
     "Beja": [
         "UD_Beja-NSC"
     ],
@@ -68,13 +54,10 @@
         "UD_Belarusian-HSE"
     ],
     "Bengali": [
-        "UD_Bengali-BRU",
-        "UD_Bengali-CMUPAN",
-        "UD_Bengali-PUD"
+        "UD_Bengali-BRU"
     ],
     "Bhojpuri": [
-        "UD_Bhojpuri-BHTB",
-        "UD_Bhojpuri-BhEn"
+        "UD_Bhojpuri-BHTB"
     ],
     "Bororo": [
         "UD_Bororo-BDT"
@@ -90,9 +73,6 @@
     ],
     "Cantonese": [
         "UD_Cantonese-HK"
-    ],
-    "Cappadocian": [
-        "UD_Cappadocian-AMGiC"
     ],
     "Catalan": [
         "UD_Catalan-AnCora"
@@ -118,56 +98,35 @@
     "Classical_Chinese": [
         "UD_Classical_Chinese-Kyoto"
     ],
-    "Classical_Nahuatl": [
-        "UD_Classical_Nahuatl-FloCo"
-    ],
     "Coptic": [
         "UD_Coptic-Scriptorium"
     ],
     "Croatian": [
         "UD_Croatian-SET"
     ],
-    "Cuicatec": [
-        "UD_Cuicatec-MesoTree"
-    ],
-    "Cusco_Quechua": [
-        "UD_Cusco_Quechua-Squoia"
-    ],
     "Czech": [
         "UD_Czech-CAC",
         "UD_Czech-CLTT",
         "UD_Czech-FicTree",
-        "UD_Czech-PCEDT",
         "UD_Czech-PDT",
         "UD_Czech-PUD",
         "UD_Czech-Poetry"
     ],
     "Danish": [
-        "UD_Danish-DDT",
-        "UD_Danish-DTB"
-    ],
-    "Dargwa": [
-        "UD_Dargwa-Mehweb"
+        "UD_Danish-DDT"
     ],
     "Dutch": [
         "UD_Dutch-Alpino",
         "UD_Dutch-LassySmall"
     ],
-    "Egyptian": [
-        "UD_Egyptian-UJaen"
-    ],
     "English": [
         "UD_English-Atis",
-        "UD_English-BhEn",
-        "UD_English-CTeTex",
-        "UD_English-ESL",
         "UD_English-ESLSpok",
         "UD_English-EWT",
         "UD_English-GENTLE",
         "UD_English-GUM",
         "UD_English-GUMReddit",
         "UD_English-LinES",
-        "UD_English-PCEDT",
         "UD_English-PUD",
         "UD_English-ParTUT",
         "UD_English-Pronouns"
@@ -190,9 +149,7 @@
         "UD_Finnish-TDT"
     ],
     "French": [
-        "UD_French-CrapBank",
         "UD_French-FQB",
-        "UD_French-FTB",
         "UD_French-GSD",
         "UD_French-PUD",
         "UD_French-ParTUT",
@@ -200,15 +157,11 @@
         "UD_French-Rhapsodie",
         "UD_French-Sequoia"
     ],
-    "Frisian": [
-        "UD_Frisian-Frysk"
-    ],
     "Frisian_Dutch": [
         "UD_Frisian_Dutch-Fame"
     ],
     "Galician": [
         "UD_Galician-CTG",
-        "UD_Galician-PUD",
         "UD_Galician-TreeGal"
     ],
     "Georgian": [
@@ -227,10 +180,8 @@
         "UD_Gothic-PROIEL"
     ],
     "Greek": [
-        "UD_Greek-Cretan",
         "UD_Greek-GDT",
-        "UD_Greek-GUD",
-        "UD_Greek-Messinian"
+        "UD_Greek-GUD"
     ],
     "Guajajara": [
         "UD_Guajajara-TuDeT"
@@ -238,40 +189,22 @@
     "Guarani": [
         "UD_Guarani-OldTuDeT"
     ],
-    "Gujarati": [
-        "UD_Gujarati-GujTB"
-    ],
     "Haitian_Creole": [
         "UD_Haitian_Creole-Autogramm"
     ],
-    "Hausa": [
-        "UD_Hausa-NorthernAutogramm",
-        "UD_Hausa-SouthernAutogramm"
-    ],
     "Hebrew": [
         "UD_Hebrew-HTB",
-        "UD_Hebrew-IAHLTknesset",
         "UD_Hebrew-IAHLTwiki"
     ],
     "Highland_Puebla_Nahuatl": [
         "UD_Highland_Puebla_Nahuatl-ITML"
     ],
-    "Hiligaynon": [
-        "UD_Hiligaynon-HTB"
-    ],
     "Hindi": [
-        "UD_Hindi-Convers",
         "UD_Hindi-HDTB",
         "UD_Hindi-PUD"
     ],
-    "Hindi_English": [
-        "UD_Hindi_English-HIENCS"
-    ],
     "Hittite": [
         "UD_Hittite-HitTB"
-    ],
-    "Huave": [
-        "UD_Huave-MesoTree"
     ],
     "Hungarian": [
         "UD_Hungarian-Szeged"
@@ -309,8 +242,6 @@
         "UD_Japanese-BCCWJLUW",
         "UD_Japanese-GSD",
         "UD_Japanese-GSDLUW",
-        "UD_Japanese-KTC",
-        "UD_Japanese-Modern",
         "UD_Japanese-PUD",
         "UD_Japanese-PUDLUW"
     ],
@@ -320,14 +251,8 @@
     "Kaapor": [
         "UD_Kaapor-TuDeT"
     ],
-    "Kabyle": [
-        "UD_Kabyle-ADPT"
-    ],
     "Kangri": [
         "UD_Kangri-KDTB"
-    ],
-    "Kannada": [
-        "UD_Kannada-CMUPAN"
     ],
     "Karelian": [
         "UD_Karelian-KKPP"
@@ -338,20 +263,11 @@
     "Kazakh": [
         "UD_Kazakh-KTB"
     ],
-    "Khoekhoe": [
-        "UD_Khoekhoe-KDT"
-    ],
     "Khunsari": [
         "UD_Khunsari-AHA"
     ],
     "Kiche": [
         "UD_Kiche-IU"
-    ],
-    "Kiga": [
-        "UD_Kiga-EKigaTB"
-    ],
-    "Komi": [
-        "UD_Komi-OldPermic"
     ],
     "Komi_Permyak": [
         "UD_Komi_Permyak-UH"
@@ -362,22 +278,14 @@
     ],
     "Korean": [
         "UD_Korean-GSD",
-        "UD_Korean-KSL",
         "UD_Korean-Kaist",
-        "UD_Korean-PUD",
-        "UD_Korean-Penn"
+        "UD_Korean-PUD"
     ],
     "Kurmanji": [
         "UD_Kurmanji-MG"
     ],
     "Kyrgyz": [
         "UD_Kyrgyz-KTMU"
-    ],
-    "Ladino": [
-        "UD_Ladino-BOUN"
-    ],
-    "Latgalian": [
-        "UD_Latgalian-Cairo"
     ],
     "Latin": [
         "UD_Latin-ITTB",
@@ -387,11 +295,7 @@
         "UD_Latin-UDante"
     ],
     "Latvian": [
-        "UD_Latvian-Cairo",
         "UD_Latvian-LVTB"
-    ],
-    "Laz": [
-        "UD_Laz-BOUN"
     ],
     "Ligurian": [
         "UD_Ligurian-GLT"
@@ -406,18 +310,11 @@
     "Low_Saxon": [
         "UD_Low_Saxon-LSDC"
     ],
-    "Luxembourgish": [
-        "UD_Luxembourgish-LuxBank"
-    ],
     "Macedonian": [
         "UD_Macedonian-MTB"
     ],
     "Madi": [
         "UD_Madi-Jarawara"
-    ],
-    "Magahi": [
-        "UD_Magahi-MGTB",
-        "UD_Magahi-PUD"
     ],
     "Maghrebi_Arabic_French": [
         "UD_Maghrebi_Arabic_French-Arabizi"
@@ -431,14 +328,10 @@
     "Maltese": [
         "UD_Maltese-MUDT"
     ],
-    "Mandyali": [
-        "UD_Mandyali-MDTB"
-    ],
     "Manx": [
         "UD_Manx-Cadhan"
     ],
     "Marathi": [
-        "UD_Marathi-CMUPAN",
         "UD_Marathi-UFAL"
     ],
     "Mbya_Guarani": [
@@ -448,15 +341,8 @@
     "Middle_French": [
         "UD_Middle_French-PROFITEROLE"
     ],
-    "Middle_Irish": [
-        "UD_Middle_Irish-CritMITB",
-        "UD_Middle_Irish-DipMITB"
-    ],
     "Moksha": [
         "UD_Moksha-JR"
-    ],
-    "Mongolian": [
-        "UD_Mongolian-MTLR"
     ],
     "Munduruku": [
         "UD_Munduruku-TuDeT"
@@ -467,38 +353,18 @@
     "Nayini": [
         "UD_Nayini-AHA"
     ],
-    "Ndengeleko": [
-        "UD_Ndengeleko-NTB"
-    ],
     "Neapolitan": [
         "UD_Neapolitan-RB"
-    ],
-    "Nepali": [
-        "UD_Nepali-NTB"
     ],
     "Nheengatu": [
         "UD_Nheengatu-CompLin"
     ],
-    "Nkore": [
-        "UD_Nkore-ENkoreTB"
-    ],
     "North_Sami": [
         "UD_North_Sami-Giella"
     ],
-    "Northwest_Gbaya": [
-        "UD_Northwest_Gbaya-Autogramm"
-    ],
     "Norwegian": [
         "UD_Norwegian-Bokmaal",
-        "UD_Norwegian-Nynorsk",
-        "UD_Norwegian-NynorskLIA"
-    ],
-    "Occitan": [
-        "UD_Occitan-OCOR",
-        "UD_Occitan-TTB"
-    ],
-    "Odia": [
-        "UD_Odia-ODTB"
+        "UD_Norwegian-Nynorsk"
     ],
     "Old_Church_Slavonic": [
         "UD_Old_Church_Slavonic-PROIEL"
@@ -516,32 +382,12 @@
         "UD_Old_Irish-DipSGG",
         "UD_Old_Irish-DipWBG"
     ],
-    "Old_Japanese": [
-        "UD_Old_Japanese-LMJ"
-    ],
     "Old_Turkish": [
         "UD_Old_Turkish-Clausal"
     ],
-    "Ottoman_Turkish": [
-        "UD_Ottoman_Turkish-BOUN"
-    ],
-    "Palenquero": [
-        "UD_Palenquero-COL"
-    ],
-    "Papiamento": [
-        "UD_Papiamento-AW",
-        "UD_Papiamento-CW"
-    ],
-    "Pashto": [
-        "UD_Pashto-Zuhra"
-    ],
     "Persian": [
-        "UD_Persian-IPerUDT",
         "UD_Persian-PerDT",
         "UD_Persian-Seraji"
-    ],
-    "Pnar": [
-        "UD_Pnar-PTB"
     ],
     "Polish": [
         "UD_Polish-LFG",
@@ -551,33 +397,19 @@
     "Pomak": [
         "UD_Pomak-Philotis"
     ],
-    "Pontic": [
-        "UD_Pontic-BOUN"
-    ],
     "Portuguese": [
         "UD_Portuguese-Bosque",
         "UD_Portuguese-CINTIL",
-        "UD_Portuguese-DHBB",
         "UD_Portuguese-GSD",
         "UD_Portuguese-PUD",
         "UD_Portuguese-PetroGold",
         "UD_Portuguese-Porttinari"
-    ],
-    "Prakrit": [
-        "UD_Prakrit-DIPI"
-    ],
-    "Punjabi": [
-        "UD_Punjabi-PunTB"
     ],
     "Romanian": [
         "UD_Romanian-ArT",
         "UD_Romanian-Nonstandard",
         "UD_Romanian-RRT",
         "UD_Romanian-SiMoNERo"
-    ],
-    "Romansh": [
-        "UD_Romansh-Rumgr",
-        "UD_Romansh-Sursilv"
     ],
     "Russian": [
         "UD_Russian-GSD",
@@ -596,18 +428,7 @@
     "Serbian": [
         "UD_Serbian-SET"
     ],
-    "Seri": [
-        "UD_Seri-MesoTree"
-    ],
-    "Shipibo_Konibo": [
-        "UD_Shipibo_Konibo-PUCP"
-    ],
-    "Sindhi": [
-        "UD_Sindhi-Isra",
-        "UD_Sindhi-MazharDootio"
-    ],
     "Sinhala": [
-        "UD_Sinhala-IITS",
         "UD_Sinhala-STB"
     ],
     "Skolt_Sami": [
@@ -623,26 +444,13 @@
     "Soi": [
         "UD_Soi-AHA"
     ],
-    "Somali": [
-        "UD_Somali-STB"
-    ],
-    "Sorani": [
-        "UD_Sorani-MG"
-    ],
     "South_Levantine_Arabic": [
         "UD_South_Levantine_Arabic-MADAR"
     ],
     "Spanish": [
         "UD_Spanish-AnCora",
-        "UD_Spanish-COSER",
         "UD_Spanish-GSD",
         "UD_Spanish-PUD"
-    ],
-    "Spanish_English": [
-        "UD_Spanish_English-Miami"
-    ],
-    "Swahili": [
-        "UD_Swahili-OPUSGV"
     ],
     "Swedish": [
         "UD_Swedish-LinES",
@@ -675,15 +483,6 @@
     "Thai": [
         "UD_Thai-PUD"
     ],
-    "Tigrinya": [
-        "UD_Tigrinya-Keren"
-    ],
-    "Tswana": [
-        "UD_Tswana-Popapolelo"
-    ],
-    "Tunisian_Arabic": [
-        "UD_Tunisian_Arabic-NAxLAT"
-    ],
     "Tupinamba": [
         "UD_Tupinamba-TuDeT"
     ],
@@ -696,14 +495,10 @@
         "UD_Turkish-Kenet",
         "UD_Turkish-PUD",
         "UD_Turkish-Penn",
-        "UD_Turkish-Tourism",
-        "UD_Turkish-ULU"
+        "UD_Turkish-Tourism"
     ],
     "Turkish_German": [
         "UD_Turkish_German-SAGT"
-    ],
-    "Tuwari": [
-        "UD_Tuwari-Autogramm"
     ],
     "Ukrainian": [
         "UD_Ukrainian-IU"
@@ -717,14 +512,8 @@
     "Urdu": [
         "UD_Urdu-UDTB"
     ],
-    "Uspanteko": [
-        "UD_Uspanteko-MesoTree"
-    ],
     "Uyghur": [
         "UD_Uyghur-UDT"
-    ],
-    "Uzbek": [
-        "UD_Uzbek-UzUDT"
     ],
     "Veps": [
         "UD_Veps-VWT"
@@ -742,8 +531,7 @@
         "UD_Western_Armenian-ArmTDP"
     ],
     "Western_Sierra_Puebla_Nahuatl": [
-        "UD_Western_Sierra_Puebla_Nahuatl-ITML",
-        "UD_Western_Sierra_Puebla_Nahuatl-MesoTree"
+        "UD_Western_Sierra_Puebla_Nahuatl-ITML"
     ],
     "Wolof": [
         "UD_Wolof-WTB"

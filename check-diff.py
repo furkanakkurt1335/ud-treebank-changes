@@ -16,8 +16,9 @@ def get_changes(conllu_files):
         with open(conllu_file) as f:
             content = f.read().strip()
             sentences.extend(content.split('\n\n'))
-    mark_count = 0
-    # NOUN, ADJ, DET, INTJ should not be attached as mark
+    count = 0
+    # Checking for the below...
+    # A verb (VERB, AUX) always has a VerbForm.
     for sentence in sentences:
         lines = sentence.split('\n')
         for line in lines:
@@ -25,9 +26,9 @@ def get_changes(conllu_files):
                 continue
             fields = line.split('\t')
             id_t, form, lemma, upos, xpos, feats, head, deprel, deps, misc = fields
-            if deprel == 'mark' and upos in ['NOUN', 'ADJ', 'DET', 'INTJ']:
-                mark_count += 1
-    return mark_count
+            if upos in ['VERB', 'AUX'] and 'VerbForm=' not in feats:
+                count += 1
+    return count
 
 def main():
     treebank_url = 'https://github.com/UniversalDependencies/{treebank_title}.git'

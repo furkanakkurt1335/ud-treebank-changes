@@ -17,13 +17,15 @@ def get_changes(conllu_files):
             content = f.read().strip()
             sentences.extend(content.split('\n\n'))
     mark_count = 0
+    # NOUN, ADJ, DET, INTJ should not be attached as mark
     for sentence in sentences:
         lines = sentence.split('\n')
         for line in lines:
             if line.startswith('#'):
                 continue
             fields = line.split('\t')
-            if fields[7] == 'mark':
+            id_t, form, lemma, upos, xpos, feats, head, deprel, deps, misc = fields
+            if deprel == 'mark' and upos in ['NOUN', 'ADJ', 'DET', 'INTJ']:
                 mark_count += 1
     return mark_count
 
@@ -46,7 +48,6 @@ def main():
     # Checkout version 1
     run(['git', 'checkout', version_tag.format(version=version1)])
 
-    # NOUN, ADJ, DET, INTJ should not be attached as mark
     # Get stats on what to check difference of in version 1
     conllu_files = glob.glob('*.conllu')
     stats1 = get_changes(conllu_files)
